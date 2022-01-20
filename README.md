@@ -1,1 +1,3 @@
 # JuegoPythoon
+
+ejecutar meteorito.py
